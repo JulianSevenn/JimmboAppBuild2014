@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JimmboAppBuild1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_cardfliplayoutrightout">cardfliplayoutrightout</string>
+    <string name="title_activity_front_view_login">FrontViewLogin</string>
+    <string name="title_activity_back_view_login">BackViewLogin</string>
+    <string name="card_back_title">Back</string>
+    <string name="card_back_description">This contains the description of the back card layout</string>
+    <string name="description_image_1">Description of Image Back Card Flip View</string>
+    <string name="title_activity_no_account">NoAccount</string>
+    <string name="title_activity_no_password">NoPassword</string>
+    <string name="title_activity_server_results">ServerResults</string>
+    <string name="title_activity_logging_in">LoggingIn</string>
+    <string name="title_activity_logging_in_result">LoggingInResult</string>
+
+</resources>
